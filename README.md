@@ -1,3 +1,2 @@
 # project
-рабочий
-проект
+sinergya
